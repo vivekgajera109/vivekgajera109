@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=Shreemanarjun) 
  ### Hi I'm Vivek Gajera👋
 - 🚀 Flutter Enthusiast with a Passion for Building Apps
 - 🌱 Building in Flutter for 3 years and counting
