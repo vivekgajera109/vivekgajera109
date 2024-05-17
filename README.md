@@ -1,60 +1,101 @@
-<h2 align="left">My name is Vivek Gajera, and I work as a Flutter developer. 🚀 Currently, I'm pursuing a degree in Software Engineering 📚, and I have a strong passion for Dart/Flutter. 💙 Right now, I'm actively involved in creating software and applications using Flutter. If you're interested, you can check out my portfolio on Instagram! 📱👀</h2>
+![](https://komarev.com/ghpvc/?username=Shreemanarjun) 
+ ### Hi I'm Shreeman Arjun👋
+- 🚀 Flutter Enthusiast with a Passion for Building Apps
+- 🌱 Building in Flutter for 3 years and counting
+- 💬 Ask me about Life & Technology 
 
-###
+ 
+ ## ✍️ Languages,Frameworks ❤️
+ <p float="right">
+  
+ <a href="">
+  <img align="center" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />&nbsp;
+  <img align="center" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />&nbsp;
+  <img align="center" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>&nbsp;
+  <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=whitehttps://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>&nbsp;
+    <img align="center" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />&nbsp;
+  
+</a>
+  
+</p>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=vivekgajera109&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vivekgajera109&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+## Skills 🚀
 
-###
+- Flutter (Dart, Riverpod, Getx, Dio, Serverpod, VelocityX) 💙
+- Android (Jetpack Compose)
+- iOS (Swift UI) 🍏
+- Kotlin (Ktor Server) 💙
+- Java (SpringBoot)
+- Python (FastAPI)
+- Firebase 🔥
+- SQL 🗃️
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+## Projects 🛠️
 
-###
+### [Flutter Sharez](https://github.com/Shreemanarjun/flutter_sharez) (Open Source) 
+- 📂 Cross-platform file-sharing app utilizing Flutter and Riverpod.
+- 📥 Enabled resumable downloads, QR code scanning, and multilingual support.
+- 🎨 Designed intuitive UI for seamless sharing and receiving of files.
+- 🚀 Collaborated with the team to troubleshoot and optimize functionality.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain.svg" height="30" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="30" alt="xd logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-</div>
+### [Riverpod Simple Architecture Template](https://github.com/Shreemanarjun/river_bricks/tree/master/bricks/riverpod_simple_architecture) (Open Source) 
+- 🏗️ Flutter template combining Riverpod for state management, Auto Route for navigation, and Dio for API integration.
+- 🎨 Stylish UIs with velocity_x, theming with flex_color_scheme, and alerting UIs using flash.
+- 🗄️ Efficient data storage handled using Hive.
 
-###
+### [Fitness Way](https://play.google.com/store/apps/details?id=com.refada.com)
+- 🏋️‍♂️ User-friendly Flutter app for class bookings, workout tracking, and streaks.
+- 🐞 Fixed bugs in the QR module, compressed images for reduced app size.
 
-<div align="left">
-  <a href="https://www.instagram.com/gajera_vivek_143/?igsh=dzYydXRucm9weXpq" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/vivek-gajera-2b5769248/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://wa.me/9081021559" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  </a>
-</div>
+### [Restaurant Hajj App](https://play.google.com/store/apps/details?id=com.refada.com)
+- 🍔 Developed an app to manage food quality during Hajj.
+- 💡 Created monitoring features, fixed bugs, and optimized app size.
 
-###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/vivekgajera109/vivekgajera109/output/snake.svg" alt="Snake animation" />
 
-###
+### Ensemble
+- 📊 Developed a stock management app with purchase and warranty modules.
+- 🔍 QR code generator for stocks, inward entries, audit, and reports modules.
+- 🤖 Automated purchase and warranty tracking.
+- 🚀 Enhanced stock receipt management and provided insights into stock performance.
+  
+### Symphony
+- 🛒 Full-fledged ecommerce application with warehouse, delivery, sales, admin, and customer modules.
+- 📦 Manages inventory, tracks low stock, and generates purchase orders.
+- 🚚 Handles delivery of products to customers.
+- 💰 Streamlines sales, supports multiple payment methods.
+
+### Lead Flow
+- 💼 Loan processing application enabling dynamic submission of personal info and documents.
+- 📄 User-friendly platform for borrowers to apply and lenders to process quickly.
+- 🌐 Streamlined loan application module with personal info, document uploads, and geotagging.
+
+### Aeon Wallet
+- 💳 Designed intuitive eWallet app with balance updates, QR payments, bill payments, split bills, and recurring payments.
+- 🔒 Implemented root detection, screenshot prevention, and on-time notifications for enhanced security.
+- 🎯 Improved user experience with a simple and easy-to-use payment process.
+
+
+
+ 
+
+
+
+####
+## Contact Me
+
+<p float="left">
+ <a href="https://www.linkedin.com/in/vivek-gajera-2b5769248/">
+  <img align="bottom" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+  <a href="https://twitter.com/shreemanarjun/">
+  <img align="bottom" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+</p>
+
+
+
+
+
+
